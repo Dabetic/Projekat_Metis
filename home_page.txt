@@ -1,3 +1,8 @@
 Welcome to homepage!
 
+nav:
+>Home
+>Left
+
+
 Add slogan!
