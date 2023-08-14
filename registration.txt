@@ -1,1 +1,6 @@
 Welcome to registration page!
+
+Username:__________
+Passwrof:__________
+
+| Register |
