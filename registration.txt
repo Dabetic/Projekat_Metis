@@ -2,8 +2,9 @@
 Welcome to registration page!
 
 Username:__________
-Passwrof:__________
+Passwrod:__________
 
+Enter confirm password:______________
 
 |_| I agree to receive emails
 
