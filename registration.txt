@@ -4,4 +4,7 @@ Welcome to registration page!
 Username:__________
 Passwrof:__________
 
+
+|_| I agree to receive emails
+
 | Register |
