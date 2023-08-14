@@ -1,3 +1,4 @@
+|_|
 Welcome to registration page!
 
 Username:__________
